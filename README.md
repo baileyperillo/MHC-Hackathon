@@ -1,1 +1,1 @@
-# MHC-Hackathon
+# SafeSummerNYC
